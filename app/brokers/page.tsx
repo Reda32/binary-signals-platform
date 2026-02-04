@@ -1,7 +1,7 @@
-import { Navbar } from "../components/Navbar";
-import { Footer } from "../components/Footer";
-import { Card } from "../components/ui/Card";
-import { Button } from "../components/ui/Button";
+import { Navbar } from "../../components/Navbar";
+import { Footer } from "../../components/Footer";
+import { Card } from "../../components/ui/Card";
+import { Button } from "../../components/ui/Button";
 import { ExternalLink, Star, Shield, TrendingUp } from "lucide-react";
 import "./brokers/page.css";
 

@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useQuery } from "convex/react";
-import { api } from "../../../convex/_generated/api";
+import { api } from "../../convex/_generated/api";
 import { Navbar } from "../../components/Navbar";
 import { SignalCard } from "../../components/SignalCard";
 import { Modal } from "../../components/ui/Modal";

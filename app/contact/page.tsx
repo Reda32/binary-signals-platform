@@ -1,8 +1,8 @@
-import { Navbar } from "../components/Navbar";
-import { Footer } from "../components/Footer";
-import { Button } from "../components/ui/Button";
-import { Card } from "../components/ui/Card";
-import { Input } from "../components/ui/Input";
+import { Navbar } from "../../components/Navbar";
+import { Footer } from "../../components/Footer";
+import { Button } from "../../components/ui/Button";
+import { Card } from "../../components/ui/Card";
+import { Input } from "../../components/ui/Input";
 import { Mail, MapPin, Phone } from "lucide-react";
 import "./contact/page.css";
 

@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useQuery } from "convex/react";
 import { api } from "../../convex/_generated/api";
-import { Card } from "../ui/Card";
+import { Card } from "./ui/Card";
 import { formatDistanceToNow } from "date-fns";
 import "./SignalCard.css";
 
