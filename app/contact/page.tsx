@@ -4,7 +4,7 @@ import { Button } from "../../components/ui/Button";
 import { Card } from "../../components/ui/Card";
 import { Input } from "../../components/ui/Input";
 import { Mail, MapPin, Phone } from "lucide-react";
-import "./contact/page.css";
+import "./page.css";
 
 export default function ContactPage() {
     return (
